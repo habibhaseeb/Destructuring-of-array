@@ -3,7 +3,7 @@ const data = {
 
       name: 'Alice',
 
-      favorites: ['JavaScript', 'React'], // It are two VALUES.
+      favorites: ['JavaScript', 'React'], // These are two VALUES.
     },
   };
   
@@ -15,7 +15,8 @@ const data = {
   
   console.log(name); // Alice
 
-        console.log(firstFavorite); // JavaScript
+   console.log(firstFavorite); //
+ JavaScript
 
             console.log(secondFavorite); // React
   
