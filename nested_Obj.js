@@ -18,5 +18,5 @@ const data = {
    console.log(firstFavorite); //
  JavaScript
 
-            console.log(secondFavorite); // React
+      console.log(secondFavorite); // React
   
