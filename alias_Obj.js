@@ -10,4 +10,4 @@ const objInJs = {
      const dest:{ [1,2,9.48,39.5,-736.4,6] };
  
 };
-const res = Object.values(objInJs.filterNum);
+const res = Object.values(objInJs.filterNum); 
