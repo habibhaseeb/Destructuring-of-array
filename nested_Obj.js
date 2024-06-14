@@ -19,4 +19,4 @@ const data = {
  JavaScript
 
       console.log(secondFavorite); // React
-  
+   
